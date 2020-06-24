@@ -1,13 +1,15 @@
 import React from 'react';
 import styled from 'styled-components';
 
-export const Constants ={
+export const standards ={
     screens:{
         sm:'576px',
         md: '768px',
         lg:'992px',
         xl:'1200px',
     },
+
+    padding: '15px',
 
     colors:{
         type:'black',
